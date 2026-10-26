@@ -1,0 +1,42 @@
+! Title: Nintendo Game Console Adblock List
+! Description: List for blocking ads on videogame consoles that use AdGuard Home
+!https://github.com/nh-server/switch-guide/blob/master/docs/extras/blocking_nintendo.md
+!157.230.80.146 *conntest.nintendowifi.net
+!157.230.80.146 *ctest.cdn.nintendo.net
+!
+||nintendo.com^
+||nintendo.net^
+||nintendo.jp^
+||nintendo.co.jp^
+||nintendo.co.uk^
+||nintendo-europe.com^
+||nintendowifi.net^
+||nintendo.es^
+||nintendo.co.kr^
+||nintendo.tw^
+||nintendo.com.hk^
+||nintendo.com.au^
+||nintendo.co.nz^
+||nintendo.at^
+||nintendo.be^
+||nintendods.cz^
+||nintendo.dk^
+||nintendo.de^
+||nintendo.fi^
+||nintendo.fr^
+||nintendo.gr^
+||nintendo.hu^
+||nintendo.it^
+||nintendo.nl^
+||nintendo.no^
+||nintendo.pt^
+||nintendo.ru^
+||nintendo.co.za^
+||nintendo.se^
+||nintendo.ch^
+||nintendo.pl^
+||nintendoswitch.com^
+||nintendoswitch.com.cn^
+||nintendoswitch.cn^
+||receive-lp1.er.srv.nintendo.net^
+||receive-lp1.dg.srv.nintendo.net^
